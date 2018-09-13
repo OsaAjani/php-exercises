@@ -1,4 +1,5 @@
 <?php
+require('index.php'); // <-- create the function in the index.php file
 
 class SortByOrder extends \PHPUnit_Framework_TestCase {
 
